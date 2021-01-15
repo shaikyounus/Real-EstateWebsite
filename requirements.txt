@@ -37,7 +37,7 @@ future==0.18.2
 gensim==3.8.3
 gitdb==4.0.5
 GitPython==3.1.7
-globals==0.0.42
+globals
 google-auth==1.23.0
 haversine==2.2.0
 identify==1.4.15
