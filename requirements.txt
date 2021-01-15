@@ -105,7 +105,7 @@ python-dateutil==2.7.5
 python-helper==0.0.14
 python-pptx==0.6.18
 pytz==2018.7
-pywin32==227
+pywin32
 pyxnat==1.4
 PyYAML==5.3.1
 rdflib==5.0.0
