@@ -3,7 +3,7 @@ aiml==0.8.6
 appdirs==1.4.3
 argcomplete==1.10.0
 asgiref
-autocorrect==2.1.0
+autocorrect
 backcall==0.1.0
 bcrypt==3.2.0
 beautifulsoup4==4.8.0
