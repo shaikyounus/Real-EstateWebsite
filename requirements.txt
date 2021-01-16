@@ -116,7 +116,7 @@ scipy==1.4.1
 scripts==2.0
 selenium==3.141.0
 semver==2.13.0
-six==1.15.0
+six
 sklearn==0.0
 slate3k==0.5.3
 smart-open==2.2.0
