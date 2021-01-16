@@ -2,7 +2,7 @@ a==1.0
 aiml==0.8.6
 appdirs==1.4.3
 argcomplete==1.10.0
-asgiref==3.2.10
+asgiref
 autocorrect==2.1.0
 backcall==0.1.0
 bcrypt==3.2.0
