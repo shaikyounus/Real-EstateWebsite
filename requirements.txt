@@ -4,7 +4,7 @@ appdirs==1.4.3
 argcomplete==1.10.0
 asgiref
 backcall==0.1.0
-bcrypt==3.2.0
+bcrypt
 beautifulsoup4==4.8.0
 blis==0.4.1
 cachetools==4.1.1
